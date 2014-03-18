@@ -1,4 +1,4 @@
 1. learn git
 2. redo it
-3. check it
-4. perfect
+3. try it again
+4. good
